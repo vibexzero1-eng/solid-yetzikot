@@ -1,0 +1,2222 @@
+{
+  "links": [
+    "https://www.solid-yb.com/feed/",
+    "https://www.solid-yb.com/comments/feed/",
+    "https://www.solid-yb.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.solid-yb.com%2F",
+    "https://www.solid-yb.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.solid-yb.com%2F&#038;format=xml",
+    "https://www.solid-yb.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.15",
+    "https://www.solid-yb.com/wp-content/plugins/pojo-accessibility/assets/build/fonts.css?ver=4.1.4",
+    "https://www.solid-yb.com/wp-content/themes/hello-elementor/style.css?ver=b92cc415fb3ce7289cbdb0f5b1d5301c",
+    "https://www.solid-yb.com/wp-content/themes/hello-elementor-child/style.css?ver=b92cc415fb3ce7289cbdb0f5b1d5301c",
+    "https://www.solid-yb.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.5.1",
+    "https://www.solid-yb.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.5.1",
+    "https://www.solid-yb.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.5.1",
+    "https://www.solid-yb.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.3.3",
+    "https://www.solid-yb.com/wp-content/uploads/elementor/css/post-6041.css?ver=1790893917",
+    "https://www.solid-yb.com/wp-content/plugins/elementor/assets/css/widget-image-rtl.min.css?ver=4.3.3",
+    "https://www.solid-yb.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu-rtl.min.css?ver=4.3.1",
+    "https://www.solid-yb.com/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=4.3.1",
+    "https://www.solid-yb.com/wp-content/plugins/elementor/assets/css/widget-heading-rtl.min.css?ver=4.3.3",
+    "https://www.solid-yb.com/wp-content/plugins/elementor-pro/assets/css/widget-form-rtl.min.css?ver=4.3.1",
+    "https://www.solid-yb.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css?ver=4.3.3",
+    "https://www.solid-yb.com/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=4.3.1",
+    "https://www.solid-yb.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.3.3",
+    "https://www.solid-yb.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.3.3",
+    "https://www.solid-yb.com/wp-content/plugins/elementor-extras/assets/lib/nicons/css/nicons.css?ver=2.2.52",
+    "https://www.solid-yb.com/wp-content/plugins/elementor-extras/assets/css/frontend-rtl.min.css?ver=2.2.52",
+    "https://www.solid-yb.com/wp-content/uploads/elementor/css/post-14569.css?ver=1790894647",
+    "https://www.solid-yb.com/wp-content/uploads/elementor/css/post-13131.css?ver=1790894647",
+    "https://www.solid-yb.com/wp-content/uploads/elementor/css/post-14653.css?ver=1790894647",
+    "https://www.solid-yb.com/wp-content/uploads/elementor/css/post-14452.css?ver=1790894647",
+    "https://www.solid-yb.com/wp-content/uploads/elementor/css/post-6043.css?ver=1790893917",
+    "https://www.solid-yb.com/wp-content/uploads/elementor/css/post-6062.css?ver=1790893917",
+    "https://www.solid-yb.com/wp-content/uploads/elementor/css/post-13514.css?ver=1790893917",
+    "https://www.solid-yb.com/wp-content/uploads/elementor/css/post-6684.css?ver=1790893917",
+    "https://www.solid-yb.com/wp-content/plugins/jet-search/assets/lib/chosen/chosen.min.css?ver=1.8.7",
+    "https://www.solid-yb.com/wp-content/plugins/jet-search/assets/css/jet-search.css?ver=3.6.3",
+    "https://www.solid-yb.com/wp-content/uploads/elementor/google-fonts/css/assistant.css?ver=1742256151",
+    "https://www.solid-yb.com/wp-json/",
+    "https://www.solid-yb.com/wp-json/wp/v2/pages/14569",
+    "https://www.solid-yb.com/xmlrpc.php?rsd",
+    "https://www.solid-yb.com/wp-content/uploads/2015/12/final_logo-1-100x100.jpg",
+    "https://www.solid-yb.com/wp-content/uploads/2015/12/final_logo-1.jpg",
+    "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/",
+    "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/",
+    "https://www.solid-yb.com/%d7%a1%d7%95%d7%9c%d7%99%d7%93-%d7%99%d7%a6%d7%99%d7%a7%d7%95%d7%aa-%d7%91%d7%a2%d7%9e-%d7%93%d7%a8%d7%9b%d7%99-%d7%99%d7%a6%d7%99%d7%a8%d7%aa-%d7%a7%d7%a9%d7%a8/",
+    "https://www.solid-yb.com/5828-2/",
+    "https://www.solid-yb.com/about-us/",
+    "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/",
+    "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/",
+    "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%99%d7%9d-%d7%9c%d7%a8%d7%99%d7%a6%d7%95%d7%a3-%d7%90%d7%91%d7%a0%d7%99%d7%9d-%d7%9e%d7%a9%d7%aa%d7%9c%d7%91%d7%95%d7%aa/",
+    "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/",
+    "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/",
+    "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/",
+    "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%a8%d7%a9%d7%aa-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%98%d7%95%d7%9f/",
+    "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%91%d7%98%d7%95%d7%9f/",
+    "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99-%d7%9b%d7%95%d7%91%d7%a2-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%a4%d7%9c%d7%a1%d7%98%d7%99%d7%a7/",
+    "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%94-%d7%9e%d7%a9%d7%95%d7%9c%d7%91-%d7%99%d7%a6%d7%a7%d7%aa-%d7%91%d7%98%d7%95%d7%9f/",
+    "https://www.solid-yb.com/termconcrid/pyler/",
+    "https://www.solid-yb.com/termconcrid/%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%a7%d7%95%d7%98%d7%a8-80-%d7%a1-3/",
+    "https://www.solid-yb.com/termconcrid/%d7%a7%d7%95%d7%9c%d7%98%d7%a0%d7%99%d7%9d-%d7%aa%d7%90%d7%99-%d7%aa%d7%a4%d7%99%d7%a1%d7%94/",
+    "https://www.solid-yb.com/termconcrid/%d7%aa%d7%a7%d7%a8%d7%94-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa-%d7%9c%d7%aa%d7%90/",
+    "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/",
+    "https://www.solid-yb.com/%d7%9e%d7%93%d7%99%d7%a0%d7%99%d7%95%d7%aa-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa-%d7%97%d7%91%d7%a8%d7%aa-%d7%a1%d7%95%d7%9c%d7%99%d7%93-%d7%99%d7%a6%d7%99%d7%a7%d7%95%d7%aa-%d7%91%d7%a2/",
+    "https://www.solid-yb.com/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/",
+    "https://www.solid-yb.com/%d7%aa%d7%a2%d7%95%d7%93%d7%95%d7%aa-%d7%9e%d7%9b%d7%95%d7%9f-%d7%aa%d7%a7%d7%a0%d7%99%d7%9d/",
+    "https://www.solid-yb.com/%d7%9e%d7%97%d7%99%d7%a8%d7%95%d7%9f-%d7%a1%d7%95%d7%9c%d7%99%d7%93-%d7%9b%d7%95%d7%9c%d7%9c-%d7%9e%d7%a9%d7%a7%d7%9c%d7%99%d7%9d",
+    "https://www.solid-yb.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5",
+    "https://www.solid-yb.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=4.3.3"
+  ],
+  "images": [
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/רשת-לניקוז-נעילת-ברגים-300x189.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/4007-רשת-ניקוז-נעילת-ברגים-300x197.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/4150-1-300x227.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/מסגרת-עגולה-D400-עם-נעילה-300x272.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/מסגרת-מרובעת-50-B125-מהצד-300x269.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/שלושה-חלקים-300x181.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/03/תאי-בקרה-עגולים-.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/03/8150sid-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/03/718e4083-5387-4f52-b21b-3fe4a49f40a4.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/04/תחתיות-מובנות.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/04/תחתיות-משולבות.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/05/עיצוב-ללא-שם-6.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/03/תאי-בקרה-עגולים-.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/03/תאי-בקרה-עגולים-.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/‏‏coup7122-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/‏‏coup7122-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/03/תאי-בקרה-עגולים-.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/‏‏coup7122-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/‏‏coup7122-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/03/d35e5858-f9b2-4ebc-9993-0d379f747a53.png",
+      "alt": "חוליות הגבהה 100",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/03/0d7d2339-4f4b-42cf-a8de-15ca9ec246d3.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/‏‏coup7122-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/03/d35e5858-f9b2-4ebc-9993-0d379f747a53.png",
+      "alt": "חוליות הגבהה 100",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/03/0d7d2339-4f4b-42cf-a8de-15ca9ec246d3.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/‏‏coup7122-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/03/d35e5858-f9b2-4ebc-9993-0d379f747a53.png",
+      "alt": "חוליות הגבהה 100",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/03/0d7d2339-4f4b-42cf-a8de-15ca9ec246d3.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/‏‏coup7122-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/04/a394be91-96af-41e6-a83f-358126fc3610.png",
+      "alt": "תא בקרה מלבני",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/04/8101sid.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/04/7400sid.png",
+      "alt": "תקרה לתא מלבני",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/04/a394be91-96af-41e6-a83f-358126fc3610.png",
+      "alt": "תא בקרה מלבני",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/04/8101sid.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/04/7400sid.png",
+      "alt": "תקרה לתא מלבני",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/04/a394be91-96af-41e6-a83f-358126fc3610.png",
+      "alt": "תא בקרה מלבני",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/04/8101sid.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/04/7400sid.png",
+      "alt": "תקרה לתא מלבני",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/04/a394be91-96af-41e6-a83f-358126fc3610.png",
+      "alt": "תא בקרה מלבני",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/04/8101sid.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/04/7400sid.png",
+      "alt": "תקרה לתא מלבני",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/03/718e4083-5387-4f52-b21b-3fe4a49f40a4.png",
+      "alt": "חוליות קוניות",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/04/תחתיות-מובנות.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/04/תחתיות-משולבות.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-05-02-at-12.37.04.jpeg",
+      "alt": "פרט חיבור איטוביב בין יוליה לצינור",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-02-at-12.44.59.jpeg",
+      "alt": "תמונה של איטוביב",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/05/עיצוב-ללא-שם-6.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a1%d7%95%d7%9c%d7%99%d7%93-%d7%99%d7%a6%d7%99%d7%a7%d7%95%d7%aa-%d7%91%d7%a2%d7%9e-%d7%93%d7%a8%d7%9b%d7%99-%d7%99%d7%a6%d7%99%d7%a8%d7%aa-%d7%a7%d7%a9%d7%a8/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a1%d7%95%d7%9c%d7%99%d7%93-%d7%99%d7%a6%d7%99%d7%a7%d7%95%d7%aa-%d7%91%d7%a2%d7%9e-%d7%93%d7%a8%d7%9b%d7%99-%d7%99%d7%a6%d7%99%d7%a8%d7%aa-%d7%a7%d7%a9%d7%a8/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a1%d7%95%d7%9c%d7%99%d7%93-%d7%99%d7%a6%d7%99%d7%a7%d7%95%d7%aa-%d7%91%d7%a2%d7%9e-%d7%93%d7%a8%d7%9b%d7%99-%d7%99%d7%a6%d7%99%d7%a8%d7%aa-%d7%a7%d7%a9%d7%a8/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a1%d7%95%d7%9c%d7%99%d7%93-%d7%99%d7%a6%d7%99%d7%a7%d7%95%d7%aa-%d7%91%d7%a2%d7%9e-%d7%93%d7%a8%d7%9b%d7%99-%d7%99%d7%a6%d7%99%d7%a8%d7%aa-%d7%a7%d7%a9%d7%a8/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a1%d7%95%d7%9c%d7%99%d7%93-%d7%99%d7%a6%d7%99%d7%a7%d7%95%d7%aa-%d7%91%d7%a2%d7%9e-%d7%93%d7%a8%d7%9b%d7%99-%d7%99%d7%a6%d7%99%d7%a8%d7%aa-%d7%a7%d7%a9%d7%a8/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/5828-2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/5828-2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/5828-2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/5828-2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/5828-2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2026/02/תקנים-סוליד-.pdf-1024x724.jpg",
+      "alt": "תמונה של תקן מאושר כמפעל ליצור אלמנטים מבטון",
+      "page": "https://www.solid-yb.com/5828-2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/06/עיצוב-ללא-שם-28.jpg",
+      "alt": "אישור ISO",
+      "page": "https://www.solid-yb.com/5828-2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/07/p0686006538_FFPDF-IQNET-98307.PDF-1-724x1024.jpg",
+      "alt": "טופס הזמנה סחורה",
+      "page": "https://www.solid-yb.com/5828-2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/06/עיצוב-ללא-שם-29.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/5828-2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2026/02/p0686006539_FFPDF-Hebrew-98307.PDF-2-1024x724.jpg",
+      "alt": "היתר מספר 117037 לסמן מצרךבתו תקן",
+      "page": "https://www.solid-yb.com/5828-2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2026/02/p0686006539_FFPDF-Hebrew-98307.PDF-1-1024x724.jpg",
+      "alt": "היתר מספר 103522 לסמן מצרך בתו תקן",
+      "page": "https://www.solid-yb.com/5828-2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/07/p0686006538_FFPDF-IQNET-98307.PDF-724x1024.jpg",
+      "alt": "טופס הזמנת תאי בקרה מלבניים",
+      "page": "https://www.solid-yb.com/5828-2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2026/02/p0686006539_FFPDF-Hebrew-98307.PDF-3-1024x724.jpg",
+      "alt": "היתר מספר 109938 לסמן מצרך בתו תקן",
+      "page": "https://www.solid-yb.com/5828-2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/06/עיצוב-ללא-שם-7.png",
+      "alt": "ISO CERTIFICATE",
+      "page": "https://www.solid-yb.com/5828-2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2026/02/תקנים-באנגלית-.pdf-1-1024x724.jpg",
+      "alt": "תקן תקרות",
+      "page": "https://www.solid-yb.com/5828-2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/07/1-724x1024.jpg",
+      "alt": "טופס הזמנת תאי בקרה עגולים",
+      "page": "https://www.solid-yb.com/5828-2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/5828-2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/5828-2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/5828-2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/5828-2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/about-us/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/about-us/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/about-us/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/about-us/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/about-us/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/אישור-ניהול-מפעל.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/about-us/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/איזו-ייצור-מכסים-ותקרות-טרומיים-עברית.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/about-us/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/יצוק-אלמנטים-מבטון.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/about-us/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/חוליות-מבטון.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/about-us/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/מכסה-ב.ב.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/about-us/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/איזו-ייצור-מכסים-ותקרות-טרומיים.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/about-us/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/about-us/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/about-us/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/about-us/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/about-us/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/4060-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/4057-1-1024x538.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/4056-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/4055-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/4010-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/אישור-ניהול-מפעל.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/איזו-ייצור-מכסים-ותקרות-טרומיים-עברית.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/יצוק-אלמנטים-מבטון.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/חוליות-מבטון.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/מכסה-ב.ב.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/איזו-ייצור-מכסים-ותקרות-טרומיים.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a8%d7%a9%d7%aa%d7%95%d7%aa-%d7%9e%d7%99%d7%a6%d7%a7%d7%aa-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%9c%d7%91%d7%a0%d7%99%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/4007-2.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/a4006.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/09/a4004.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/a4002.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/a4001.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/a4000.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/אישור-ניהול-מפעל.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/איזו-ייצור-מכסים-ותקרות-טרומיים-עברית.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/יצוק-אלמנטים-מבטון.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/חוליות-מבטון.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/מכסה-ב.ב.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/איזו-ייצור-מכסים-ותקרות-טרומיים.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%a4%d7%a7%d7%a7%d7%99%d7%9d-%d7%95%d7%9e%d7%a1%d7%92%d7%a8%d7%95%d7%aa-%d7%a8%d7%a9%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%99%d7%9d-%d7%9c%d7%a8%d7%99%d7%a6%d7%95%d7%a3-%d7%90%d7%91%d7%a0%d7%99%d7%9d-%d7%9e%d7%a9%d7%aa%d7%9c%d7%91%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%99%d7%9d-%d7%9c%d7%a8%d7%99%d7%a6%d7%95%d7%a3-%d7%90%d7%91%d7%a0%d7%99%d7%9d-%d7%9e%d7%a9%d7%aa%d7%9c%d7%91%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%99%d7%9d-%d7%9c%d7%a8%d7%99%d7%a6%d7%95%d7%a3-%d7%90%d7%91%d7%a0%d7%99%d7%9d-%d7%9e%d7%a9%d7%aa%d7%9c%d7%91%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%99%d7%9d-%d7%9c%d7%a8%d7%99%d7%a6%d7%95%d7%a3-%d7%90%d7%91%d7%a0%d7%99%d7%9d-%d7%9e%d7%a9%d7%aa%d7%9c%d7%91%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%99%d7%9d-%d7%9c%d7%a8%d7%99%d7%a6%d7%95%d7%a3-%d7%90%d7%91%d7%a0%d7%99%d7%9d-%d7%9e%d7%a9%d7%aa%d7%9c%d7%91%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/4150-1-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%99%d7%9d-%d7%9c%d7%a8%d7%99%d7%a6%d7%95%d7%a3-%d7%90%d7%91%d7%a0%d7%99%d7%9d-%d7%9e%d7%a9%d7%aa%d7%9c%d7%91%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/4149-1-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%99%d7%9d-%d7%9c%d7%a8%d7%99%d7%a6%d7%95%d7%a3-%d7%90%d7%91%d7%a0%d7%99%d7%9d-%d7%9e%d7%a9%d7%aa%d7%9c%d7%91%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/אישור-ניהול-מפעל.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%99%d7%9d-%d7%9c%d7%a8%d7%99%d7%a6%d7%95%d7%a3-%d7%90%d7%91%d7%a0%d7%99%d7%9d-%d7%9e%d7%a9%d7%aa%d7%9c%d7%91%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/איזו-ייצור-מכסים-ותקרות-טרומיים-עברית.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%99%d7%9d-%d7%9c%d7%a8%d7%99%d7%a6%d7%95%d7%a3-%d7%90%d7%91%d7%a0%d7%99%d7%9d-%d7%9e%d7%a9%d7%aa%d7%9c%d7%91%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/יצוק-אלמנטים-מבטון.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%99%d7%9d-%d7%9c%d7%a8%d7%99%d7%a6%d7%95%d7%a3-%d7%90%d7%91%d7%a0%d7%99%d7%9d-%d7%9e%d7%a9%d7%aa%d7%9c%d7%91%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/חוליות-מבטון.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%99%d7%9d-%d7%9c%d7%a8%d7%99%d7%a6%d7%95%d7%a3-%d7%90%d7%91%d7%a0%d7%99%d7%9d-%d7%9e%d7%a9%d7%aa%d7%9c%d7%91%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/מכסה-ב.ב.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%99%d7%9d-%d7%9c%d7%a8%d7%99%d7%a6%d7%95%d7%a3-%d7%90%d7%91%d7%a0%d7%99%d7%9d-%d7%9e%d7%a9%d7%aa%d7%9c%d7%91%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/איזו-ייצור-מכסים-ותקרות-טרומיים.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%99%d7%9d-%d7%9c%d7%a8%d7%99%d7%a6%d7%95%d7%a3-%d7%90%d7%91%d7%a0%d7%99%d7%9d-%d7%9e%d7%a9%d7%aa%d7%9c%d7%91%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%99%d7%9d-%d7%9c%d7%a8%d7%99%d7%a6%d7%95%d7%a3-%d7%90%d7%91%d7%a0%d7%99%d7%9d-%d7%9e%d7%a9%d7%aa%d7%9c%d7%91%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%99%d7%9d-%d7%9c%d7%a8%d7%99%d7%a6%d7%95%d7%a3-%d7%90%d7%91%d7%a0%d7%99%d7%9d-%d7%9e%d7%a9%d7%aa%d7%9c%d7%91%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%99%d7%9d-%d7%9c%d7%a8%d7%99%d7%a6%d7%95%d7%a3-%d7%90%d7%91%d7%a0%d7%99%d7%9d-%d7%9e%d7%a9%d7%aa%d7%9c%d7%91%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%99%d7%9d-%d7%9c%d7%a8%d7%99%d7%a6%d7%95%d7%a3-%d7%90%d7%91%d7%a0%d7%99%d7%9d-%d7%9e%d7%a9%d7%aa%d7%9c%d7%91%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/3428-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/34281-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/34241-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/3422-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/3426-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/3424D-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/34241-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/3424-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/אישור-ניהול-מפעל.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/איזו-ייצור-מכסים-ותקרות-טרומיים-עברית.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/יצוק-אלמנטים-מבטון.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/חוליות-מבטון.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/מכסה-ב.ב.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/איזו-ייצור-מכסים-ותקרות-טרומיים.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%a2%d7%92%d7%95%d7%9c%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/3427-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/3423D-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/34231-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/3423-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/34271-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/3411-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/3421-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/3425-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/3410-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/אישור-ניהול-מפעל.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/איזו-ייצור-מכסים-ותקרות-טרומיים-עברית.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/יצוק-אלמנטים-מבטון.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/חוליות-מבטון.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/מכסה-ב.ב.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/איזו-ייצור-מכסים-ותקרות-טרומיים.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%9e%d7%a1%d7%92%d7%a8%d7%aa-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2021/08/0602.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/SET000142-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/SET_126-1-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2021/08/0615.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/0610-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/אישור-ניהול-מפעל.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/איזו-ייצור-מכסים-ותקרות-טרומיים-עברית.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/יצוק-אלמנטים-מבטון.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/חוליות-מבטון.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/מכסה-ב.ב.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/איזו-ייצור-מכסים-ותקרות-טרומיים.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/mach/%d7%9e%d7%9b%d7%a1%d7%99-%d7%99%d7%a6%d7%a7%d7%aa-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%96%d7%a7-%d7%9c%d7%97%d7%a9%d7%9e%d7%9c/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%a8%d7%a9%d7%aa-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%a8%d7%a9%d7%aa-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%a8%d7%a9%d7%aa-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%a8%d7%a9%d7%aa-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%a8%d7%a9%d7%aa-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2021/06/מכסה-רשת-לתא-40-פתח-30.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%a8%d7%a9%d7%aa-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2021/06/מכסה-רשת-לתא-40-פתח-30.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%a8%d7%a9%d7%aa-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2021/06/מכסה-רשת-לתא-40-פתח-30.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%a8%d7%a9%d7%aa-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2021/06/מכסה-רשת-לתא-40-פתח-30.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%a8%d7%a9%d7%aa-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2021/06/מכסה-רשת-לתא-40-פתח-30.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%a8%d7%a9%d7%aa-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%a8%d7%a9%d7%aa-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%a8%d7%a9%d7%aa-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%a8%d7%a9%d7%aa-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-%d7%a8%d7%a9%d7%aa-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/3603.jpg",
+      "alt": "מכסה כובע",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/שני-חלקים.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/שני-חלקים.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2021/06/תקרה-שני-חלקים.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/שני-חלקים.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2021/06/תקרה-שני-חלקים.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/שני-חלקים-מלמעלה.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/שני-חלקים.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2021/06/תקרה-שני-חלקים.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/שני-חלקים-טבלה.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99%d7%9d-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99-%d7%9b%d7%95%d7%91%d7%a2-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%a4%d7%9c%d7%a1%d7%98%d7%99%d7%a7/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99-%d7%9b%d7%95%d7%91%d7%a2-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%a4%d7%9c%d7%a1%d7%98%d7%99%d7%a7/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99-%d7%9b%d7%95%d7%91%d7%a2-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%a4%d7%9c%d7%a1%d7%98%d7%99%d7%a7/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99-%d7%9b%d7%95%d7%91%d7%a2-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%a4%d7%9c%d7%a1%d7%98%d7%99%d7%a7/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99-%d7%9b%d7%95%d7%91%d7%a2-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%a4%d7%9c%d7%a1%d7%98%d7%99%d7%a7/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/3603.jpg",
+      "alt": "מכסה כובע",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99-%d7%9b%d7%95%d7%91%d7%a2-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%a4%d7%9c%d7%a1%d7%98%d7%99%d7%a7/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/שני-חלקים.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99-%d7%9b%d7%95%d7%91%d7%a2-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%a4%d7%9c%d7%a1%d7%98%d7%99%d7%a7/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/שני-חלקים.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99-%d7%9b%d7%95%d7%91%d7%a2-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%a4%d7%9c%d7%a1%d7%98%d7%99%d7%a7/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2021/06/תקרה-שני-חלקים.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99-%d7%9b%d7%95%d7%91%d7%a2-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%a4%d7%9c%d7%a1%d7%98%d7%99%d7%a7/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/שני-חלקים-מלמעלה.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99-%d7%9b%d7%95%d7%91%d7%a2-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%a4%d7%9c%d7%a1%d7%98%d7%99%d7%a7/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99-%d7%9b%d7%95%d7%91%d7%a2-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%a4%d7%9c%d7%a1%d7%98%d7%99%d7%a7/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99-%d7%9b%d7%95%d7%91%d7%a2-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%a4%d7%9c%d7%a1%d7%98%d7%99%d7%a7/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99-%d7%9b%d7%95%d7%91%d7%a2-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%a4%d7%9c%d7%a1%d7%98%d7%99%d7%a7/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%99-%d7%9b%d7%95%d7%91%d7%a2-2-%d7%97%d7%9c%d7%a7%d7%99%d7%9d%d7%9c%d7%aa%d7%90%d7%99-%d7%a4%d7%9c%d7%a1%d7%98%d7%99%d7%a7/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%94-%d7%9e%d7%a9%d7%95%d7%9c%d7%91-%d7%99%d7%a6%d7%a7%d7%aa-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%94-%d7%9e%d7%a9%d7%95%d7%9c%d7%91-%d7%99%d7%a6%d7%a7%d7%aa-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%94-%d7%9e%d7%a9%d7%95%d7%9c%d7%91-%d7%99%d7%a6%d7%a7%d7%aa-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%94-%d7%9e%d7%a9%d7%95%d7%9c%d7%91-%d7%99%d7%a6%d7%a7%d7%aa-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%94-%d7%9e%d7%a9%d7%95%d7%9c%d7%91-%d7%99%d7%a6%d7%a7%d7%aa-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2021/08/30001.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%94-%d7%9e%d7%a9%d7%95%d7%9c%d7%91-%d7%99%d7%a6%d7%a7%d7%aa-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/3001.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%94-%d7%9e%d7%a9%d7%95%d7%9c%d7%91-%d7%99%d7%a6%d7%a7%d7%aa-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2021/08/30011.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%94-%d7%9e%d7%a9%d7%95%d7%9c%d7%91-%d7%99%d7%a6%d7%a7%d7%aa-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/3002.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%94-%d7%9e%d7%a9%d7%95%d7%9c%d7%91-%d7%99%d7%a6%d7%a7%d7%aa-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2021/08/30021.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%94-%d7%9e%d7%a9%d7%95%d7%9c%d7%91-%d7%99%d7%a6%d7%a7%d7%aa-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%94-%d7%9e%d7%a9%d7%95%d7%9c%d7%91-%d7%99%d7%a6%d7%a7%d7%aa-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%94-%d7%9e%d7%a9%d7%95%d7%9c%d7%91-%d7%99%d7%a6%d7%a7%d7%aa-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%94-%d7%9e%d7%a9%d7%95%d7%9c%d7%91-%d7%99%d7%a6%d7%a7%d7%aa-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/msolav_y_b/%d7%9e%d7%9b%d7%a1%d7%94-%d7%9e%d7%a9%d7%95%d7%9c%d7%91-%d7%99%d7%a6%d7%a7%d7%aa-%d7%91%d7%98%d7%95%d7%9f/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/pyler/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/pyler/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/pyler/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/pyler/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/pyler/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2021/08/2002.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/pyler/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/coup2003-1-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/pyler/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/2000-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/pyler/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/coup2003-1-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/pyler/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/ceruc.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/pyler/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/pyler/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/pyler/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/pyler/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/pyler/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%a7%d7%95%d7%98%d7%a8-80-%d7%a1-3/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%a7%d7%95%d7%98%d7%a8-80-%d7%a1-3/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%a7%d7%95%d7%98%d7%a8-80-%d7%a1-3/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%a7%d7%95%d7%98%d7%a8-80-%d7%a1-3/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%a7%d7%95%d7%98%d7%a8-80-%d7%a1-3/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2025/01/תיק-מוצר-אבן-שפה-תמונה-.jpg",
+      "alt": "חולית ארקה",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%a7%d7%95%d7%98%d7%a8-80-%d7%a1-3/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/ceruc.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%a7%d7%95%d7%98%d7%a8-80-%d7%a1-3/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/2חוליה.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%a7%d7%95%d7%98%d7%a8-80-%d7%a1-3/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/2חוליה.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%a7%d7%95%d7%98%d7%a8-80-%d7%a1-3/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/Coup9100-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%a7%d7%95%d7%98%d7%a8-80-%d7%a1-3/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/Coup9133-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%a7%d7%95%d7%98%d7%a8-80-%d7%a1-3/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/‏‏Coup9101-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%a7%d7%95%d7%98%d7%a8-80-%d7%a1-3/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/9102.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%a7%d7%95%d7%98%d7%a8-80-%d7%a1-3/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/‏‏Coup9103-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%a7%d7%95%d7%98%d7%a8-80-%d7%a1-3/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/2חוליה.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%a7%d7%95%d7%98%d7%a8-80-%d7%a1-3/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%a7%d7%95%d7%98%d7%a8-80-%d7%a1-3/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%a7%d7%95%d7%98%d7%a8-80-%d7%a1-3/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%a7%d7%95%d7%98%d7%a8-80-%d7%a1-3/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%90%d7%99-%d7%91%d7%a7%d7%a8%d7%94-%d7%a7%d7%95%d7%98%d7%a8-80-%d7%a1-3/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%a7%d7%95%d7%9c%d7%98%d7%a0%d7%99%d7%9d-%d7%aa%d7%90%d7%99-%d7%aa%d7%a4%d7%99%d7%a1%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%a7%d7%95%d7%9c%d7%98%d7%a0%d7%99%d7%9d-%d7%aa%d7%90%d7%99-%d7%aa%d7%a4%d7%99%d7%a1%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%a7%d7%95%d7%9c%d7%98%d7%a0%d7%99%d7%9d-%d7%aa%d7%90%d7%99-%d7%aa%d7%a4%d7%99%d7%a1%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%a7%d7%95%d7%9c%d7%98%d7%a0%d7%99%d7%9d-%d7%aa%d7%90%d7%99-%d7%aa%d7%a4%d7%99%d7%a1%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%a7%d7%95%d7%9c%d7%98%d7%a0%d7%99%d7%9d-%d7%aa%d7%90%d7%99-%d7%aa%d7%a4%d7%99%d7%a1%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/Coup8000-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%a7%d7%95%d7%9c%d7%98%d7%a0%d7%99%d7%9d-%d7%aa%d7%90%d7%99-%d7%aa%d7%a4%d7%99%d7%a1%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/Coup8001-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%a7%d7%95%d7%9c%d7%98%d7%a0%d7%99%d7%9d-%d7%aa%d7%90%d7%99-%d7%aa%d7%a4%d7%99%d7%a1%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/Coup8003-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%a7%d7%95%d7%9c%d7%98%d7%a0%d7%99%d7%9d-%d7%aa%d7%90%d7%99-%d7%aa%d7%a4%d7%99%d7%a1%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/Coup8004-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%a7%d7%95%d7%9c%d7%98%d7%a0%d7%99%d7%9d-%d7%aa%d7%90%d7%99-%d7%aa%d7%a4%d7%99%d7%a1%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%a7%d7%95%d7%9c%d7%98%d7%a0%d7%99%d7%9d-%d7%aa%d7%90%d7%99-%d7%aa%d7%a4%d7%99%d7%a1%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%a7%d7%95%d7%9c%d7%98%d7%a0%d7%99%d7%9d-%d7%aa%d7%90%d7%99-%d7%aa%d7%a4%d7%99%d7%a1%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%a7%d7%95%d7%9c%d7%98%d7%a0%d7%99%d7%9d-%d7%aa%d7%90%d7%99-%d7%aa%d7%a4%d7%99%d7%a1%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%a7%d7%95%d7%9c%d7%98%d7%a0%d7%99%d7%9d-%d7%aa%d7%90%d7%99-%d7%aa%d7%a4%d7%99%d7%a1%d7%94/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%a7%d7%a8%d7%94-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa-%d7%9c%d7%aa%d7%90/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%a7%d7%a8%d7%94-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa-%d7%9c%d7%aa%d7%90/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%a7%d7%a8%d7%94-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa-%d7%9c%d7%aa%d7%90/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%a7%d7%a8%d7%94-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa-%d7%9c%d7%aa%d7%90/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%a7%d7%a8%d7%94-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa-%d7%9c%d7%aa%d7%90/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/7400-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%a7%d7%a8%d7%94-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa-%d7%9c%d7%aa%d7%90/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/coup7420-1-1024x471.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%a7%d7%a8%d7%94-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa-%d7%9c%d7%aa%d7%90/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/7440-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%a7%d7%a8%d7%94-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa-%d7%9c%d7%aa%d7%90/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/coup7450-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%a7%d7%a8%d7%94-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa-%d7%9c%d7%aa%d7%90/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%a7%d7%a8%d7%94-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa-%d7%9c%d7%aa%d7%90/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%a7%d7%a8%d7%94-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa-%d7%9c%d7%aa%d7%90/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%a7%d7%a8%d7%94-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa-%d7%9c%d7%aa%d7%90/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/termconcrid/%d7%aa%d7%a7%d7%a8%d7%94-%d7%9e%d7%a8%d7%95%d7%91%d7%a2%d7%aa-%d7%9c%d7%aa%d7%90/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2021/06/רשתשני-חלקים.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/שני-חלקים.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/שני-חלקים-מלמעלה.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/30051.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/‏‏coup7113-768x287.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/7440-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/ceruc.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/תא-בקרה-100-תחתית-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/קוטר-80-תמונה-מלמעלה-.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/ceruc.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/אישור-ניהול-מפעל.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/איזו-ייצור-מכסים-ותקרות-טרומיים-עברית.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/יצוק-אלמנטים-מבטון.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/חוליות-מבטון.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/מכסה-ב.ב.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/איזו-ייצור-מכסים-ותקרות-טרומיים.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%a7%d7%98%d7%9c%d7%95%d7%92-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%99%d7%a6%d7%a7%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%93%d7%99%d7%a0%d7%99%d7%95%d7%aa-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa-%d7%97%d7%91%d7%a8%d7%aa-%d7%a1%d7%95%d7%9c%d7%99%d7%93-%d7%99%d7%a6%d7%99%d7%a7%d7%95%d7%aa-%d7%91%d7%a2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%93%d7%99%d7%a0%d7%99%d7%95%d7%aa-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa-%d7%97%d7%91%d7%a8%d7%aa-%d7%a1%d7%95%d7%9c%d7%99%d7%93-%d7%99%d7%a6%d7%99%d7%a7%d7%95%d7%aa-%d7%91%d7%a2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%93%d7%99%d7%a0%d7%99%d7%95%d7%aa-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa-%d7%97%d7%91%d7%a8%d7%aa-%d7%a1%d7%95%d7%9c%d7%99%d7%93-%d7%99%d7%a6%d7%99%d7%a7%d7%95%d7%aa-%d7%91%d7%a2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%93%d7%99%d7%a0%d7%99%d7%95%d7%aa-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa-%d7%97%d7%91%d7%a8%d7%aa-%d7%a1%d7%95%d7%9c%d7%99%d7%93-%d7%99%d7%a6%d7%99%d7%a7%d7%95%d7%aa-%d7%91%d7%a2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%93%d7%99%d7%a0%d7%99%d7%95%d7%aa-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa-%d7%97%d7%91%d7%a8%d7%aa-%d7%a1%d7%95%d7%9c%d7%99%d7%93-%d7%99%d7%a6%d7%99%d7%a7%d7%95%d7%aa-%d7%91%d7%a2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%93%d7%99%d7%a0%d7%99%d7%95%d7%aa-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa-%d7%97%d7%91%d7%a8%d7%aa-%d7%a1%d7%95%d7%9c%d7%99%d7%93-%d7%99%d7%a6%d7%99%d7%a7%d7%95%d7%aa-%d7%91%d7%a2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%93%d7%99%d7%a0%d7%99%d7%95%d7%aa-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa-%d7%97%d7%91%d7%a8%d7%aa-%d7%a1%d7%95%d7%9c%d7%99%d7%93-%d7%99%d7%a6%d7%99%d7%a7%d7%95%d7%aa-%d7%91%d7%a2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%93%d7%99%d7%a0%d7%99%d7%95%d7%aa-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa-%d7%97%d7%91%d7%a8%d7%aa-%d7%a1%d7%95%d7%9c%d7%99%d7%93-%d7%99%d7%a6%d7%99%d7%a7%d7%95%d7%aa-%d7%91%d7%a2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%9e%d7%93%d7%99%d7%a0%d7%99%d7%95%d7%aa-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa-%d7%97%d7%91%d7%a8%d7%aa-%d7%a1%d7%95%d7%9c%d7%99%d7%93-%d7%99%d7%a6%d7%99%d7%a7%d7%95%d7%aa-%d7%91%d7%a2/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%aa%d7%a2%d7%95%d7%93%d7%95%d7%aa-%d7%9e%d7%9b%d7%95%d7%9f-%d7%aa%d7%a7%d7%a0%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%aa%d7%a2%d7%95%d7%93%d7%95%d7%aa-%d7%9e%d7%9b%d7%95%d7%9f-%d7%aa%d7%a7%d7%a0%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%aa%d7%a2%d7%95%d7%93%d7%95%d7%aa-%d7%9e%d7%9b%d7%95%d7%9f-%d7%aa%d7%a7%d7%a0%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%aa%d7%a2%d7%95%d7%93%d7%95%d7%aa-%d7%9e%d7%9b%d7%95%d7%9f-%d7%aa%d7%a7%d7%a0%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%aa%d7%a2%d7%95%d7%93%d7%95%d7%aa-%d7%9e%d7%9b%d7%95%d7%9f-%d7%aa%d7%a7%d7%a0%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/אישור-ניהול-מפעל.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%aa%d7%a2%d7%95%d7%93%d7%95%d7%aa-%d7%9e%d7%9b%d7%95%d7%9f-%d7%aa%d7%a7%d7%a0%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/יצוק-אלמנטים-מבטון.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%aa%d7%a2%d7%95%d7%93%d7%95%d7%aa-%d7%9e%d7%9b%d7%95%d7%9f-%d7%aa%d7%a7%d7%a0%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/מכסה-ב.ב.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%aa%d7%a2%d7%95%d7%93%d7%95%d7%aa-%d7%9e%d7%9b%d7%95%d7%9f-%d7%aa%d7%a7%d7%a0%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/איזו-ייצור-מכסים-ותקרות-טרומיים-עברית.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%aa%d7%a2%d7%95%d7%93%d7%95%d7%aa-%d7%9e%d7%9b%d7%95%d7%9f-%d7%aa%d7%a7%d7%a0%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/חוליות-מבטון.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%aa%d7%a2%d7%95%d7%93%d7%95%d7%aa-%d7%9e%d7%9b%d7%95%d7%9f-%d7%aa%d7%a7%d7%a0%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/05/איזו-ייצור-מכסים-ותקרות-טרומיים.jpg",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%aa%d7%a2%d7%95%d7%93%d7%95%d7%aa-%d7%9e%d7%9b%d7%95%d7%9f-%d7%aa%d7%a7%d7%a0%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%aa%d7%a2%d7%95%d7%93%d7%95%d7%aa-%d7%9e%d7%9b%d7%95%d7%9f-%d7%aa%d7%a7%d7%a0%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%aa%d7%a2%d7%95%d7%93%d7%95%d7%aa-%d7%9e%d7%9b%d7%95%d7%9f-%d7%aa%d7%a7%d7%a0%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%aa%d7%a2%d7%95%d7%93%d7%95%d7%aa-%d7%9e%d7%9b%d7%95%d7%9f-%d7%aa%d7%a7%d7%a0%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/%d7%aa%d7%a2%d7%95%d7%93%d7%95%d7%aa-%d7%9e%d7%9b%d7%95%d7%9f-%d7%aa%d7%a7%d7%a0%d7%99%d7%9d/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/לוגו.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/רשת-לניקוז-נעילת-ברגים-300x189.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/4007-רשת-ניקוז-נעילת-ברגים-300x197.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/4150-1-300x227.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/מסגרת-עגולה-D400-עם-נעילה-300x272.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/מסגרת-מרובעת-50-B125-מהצד-300x269.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/06/שלושה-חלקים-300x181.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2021/06/רשתשני-חלקים.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/שני-חלקים.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/שני-חלקים-מלמעלה.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/08/30051.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/10/coup2002.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/קוטר-80-תמונה-מלמעלה-.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/קולטן-קטן-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/7440-1.webp",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/whatsapp.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/waze-1.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/viber.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    },
+    {
+      "src": "https://www.solid-yb.com/wp-content/uploads/2024/07/email.png",
+      "alt": "",
+      "page": "https://www.solid-yb.com/"
+    }
+  ]
+}
