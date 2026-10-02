@@ -27,6 +27,9 @@ export const metadata: Metadata = {
     default: "סוליד יציקות בע\"מ - בונים את התשתית לעתיד ישראל",
   },
   description: "יצרנית וספקית של מוצרי תשתית לכבישים, פיתוח, ניקוז, ביוב, חשמל ותקשורת ברחבי ישראל. מוצרי יצקת, בטון ומוצרים משולבים באיכות הגבוהה ביותר.",
+  verification: {
+    google: "DVoOc9z2IOo3eU2RCGq06sthl6ncsJnoJgGreQOuKss",
+  },
 };
 
 export default function RootLayout({
